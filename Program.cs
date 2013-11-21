@@ -9,6 +9,8 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Hallo");
+            System.Console.ReadLine();
         }
     }
 }
